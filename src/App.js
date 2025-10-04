@@ -64,9 +64,9 @@ const App = () => {
                 <a href="#pricing" className="block px-3 py-2 text-gray-600 hover:text-black transition-colors">
                   Pricing
                 </a>
-                <button className="w-full text-left bg-black hover:bg-gray-800 text-white px-3 py-2 rounded-lg transition-colors">
+                <a href="https://calendly.com/marion_designx/your-saas-startup-blueprint-call" target="_blank" rel="noopener noreferrer" className="w-full text-left bg-black hover:bg-gray-800 text-white px-3 py-2 rounded-lg transition-colors inline-block">
                   Book a call
-                </button>
+                </a>
               </div>
             </div>
           )}
@@ -93,10 +93,10 @@ const App = () => {
 
           {/* CTAs */}
           <div className="flex justify-center mb-12">
-            <button className="bg-black hover:bg-gray-800 text-white px-8 py-4 rounded-lg font-semibold flex items-center justify-center gap-2 button-hover">
+            <a href="https://calendly.com/marion_designx/your-saas-startup-blueprint-call" target="_blank" rel="noopener noreferrer" className="bg-black hover:bg-gray-800 text-white px-8 py-4 rounded-lg font-semibold flex items-center justify-center gap-2 button-hover inline-block">
               Book a call
               <ArrowRight size={20} />
-            </button>
+            </a>
           </div>
 
         </div>
@@ -316,9 +316,9 @@ const App = () => {
                   <span className="text-gray-600">Weekly Performance Reports + Growth Insights</span>
                 </li>
               </ul>
-              <button className="w-full bg-gray-800 hover:bg-gray-900 text-white py-3 rounded-lg font-semibold transition-colors mt-auto">
+              <a href="https://calendly.com/marion_designx/your-saas-startup-blueprint-call" target="_blank" rel="noopener noreferrer" className="w-full bg-gray-800 hover:bg-gray-900 text-white py-3 rounded-lg font-semibold transition-colors mt-auto inline-block text-center">
                 Book a call
-              </button>
+              </a>
             </div>
 
             {/* Growth Card - Featured */}
@@ -356,9 +356,9 @@ const App = () => {
                   <span className="text-white">Weekly reporting</span>
                 </li>
               </ul>
-              <button className="w-full bg-white text-black py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors mt-auto">
+              <a href="https://calendly.com/marion_designx/your-saas-startup-blueprint-call" target="_blank" rel="noopener noreferrer" className="w-full bg-white text-black py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors mt-auto inline-block text-center">
                 Book a call
-              </button>
+              </a>
             </div>
 
             {/* Scale Card */}
@@ -391,9 +391,9 @@ const App = () => {
                   <span className="text-gray-600">Custom dashboard</span>
                 </li>
               </ul>
-              <button className="w-full bg-gray-800 hover:bg-gray-900 text-white py-3 rounded-lg font-semibold transition-colors mt-auto">
+              <a href="https://calendly.com/marion_designx/your-saas-startup-blueprint-call" target="_blank" rel="noopener noreferrer" className="w-full bg-gray-800 hover:bg-gray-900 text-white py-3 rounded-lg font-semibold transition-colors mt-auto inline-block text-center">
                 Book a call
-              </button>
+              </a>
             </div>
           </div>
         </div>
