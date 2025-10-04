@@ -505,7 +505,7 @@ const App = () => {
             </div>
             
             <p className="text-gray-500 text-sm">
-              © 2024 Fitscale. All rights reserved.
+              © 2025 Fitscale. All rights reserved.
             </p>
           </div>
         </div>
